@@ -1,0 +1,23 @@
+{
+  "name": "jsonblob",
+  "version": "1.0.1",
+  "description": "A wrapper for the jsonblob API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "json",
+    "api",
+    "wrapper"
+  ],
+  "author": "Samsamson33#0913",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
